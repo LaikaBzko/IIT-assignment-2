@@ -1,0 +1,4 @@
+planet number:
+20
+warp factor:
+6.9

@@ -1,0 +1,4 @@
+planet number:
+7
+warp factor:
+9
