@@ -1,6 +1,6 @@
     ##############################################################################################################
     ##############################################################################################################
-    ####  Author: Daniel Marshall                                                                             ####
+    ####  Author: Laika Marshall                                                                              ####
     ####  Date Created: 01/05/2021                                                                            ####
     ####  Date Last Changed: 02/05/2021                                                                       ####
     ####  a simple program to calculate warp speed and travel times, from the film and TV franchise Star Trek ####
